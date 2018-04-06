@@ -1,1 +1,2 @@
 Hello, my word!
+new line
